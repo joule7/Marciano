@@ -1,0 +1,12 @@
+body {
+	background-image: url("../img/universe.jpg");
+	text-align: center;
+}
+
+div {
+	width:auto;
+    height:auto;
+	margin: 60px;
+	text-align: center;
+	opacity:0.75;
+}
